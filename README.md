@@ -1,5 +1,5 @@
 # Movie_downloader
-script can download any movie you like ,use torrent format 
+script can download any movie you like ,uses a torrent format 
 
 Make sure you have Torrent 
 Make sure you have libriries :requests,BeautifulSoup,webbrowser
